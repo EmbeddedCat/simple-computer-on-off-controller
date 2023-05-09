@@ -11,11 +11,11 @@ Just a simple controller that turns on or reset a computer using an UART module 
 ## Channel terminal block 1
 | **Relay Module** |   **PC**     | 
 |------------------|--------------|
-| COM              | RESET_GROUND | 
-| NO               | RESET        |
+| COM              | RESET        | 
+| NO               | RESET_GROUND |
 
 ## Channel terminal block 2
 | **Relay Module** |   **PC**     | 
 |------------------|--------------|
-| COM              | POWER_GOUND  | 
-| NO               | POWER        |
+| COM              | POWER        | 
+| NO               | POWER_GROUND |
